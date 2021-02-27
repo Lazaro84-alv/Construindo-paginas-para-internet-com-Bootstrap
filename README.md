@@ -1,2 +1,2 @@
-# Construindo-paginas-para-internet-com-Bootstrap
-criando paginas responsivas na web utilizando o Bootstrap
+# Construindo-pagina-para-internet-com-Bootstrap
+criando pagina com web utilizando o Bootstrap
